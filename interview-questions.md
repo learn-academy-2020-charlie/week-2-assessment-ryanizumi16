@@ -4,7 +4,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 1. Why would you use the method super()?
 
-  Your answer:
+  Your answer:you would use it to call the base classe's constructor
 
   Researched answer:
 
@@ -12,7 +12,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 2. What is a virtual DOM?
 
-  Your answer:
+  Your answer:its the representation of the UI
 
   Researched answer:
 
@@ -20,7 +20,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 3. When creating a basic (stateless) class component in React, what are the necessary elements needed to display "Hello World" in the browser?
 
-  Your answer:
+  Your answer: const = props => React.Element
 
   Researched answer:
 
@@ -28,7 +28,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 4. What is JSX?
 
-  Your answer:
+  Your answer:it allows you to use html and JavaScript
 
   Researched answer:
 
@@ -36,7 +36,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 5. What is state in React?
 
-  Your answer:
+  Your answer: state is where you store property values that belong to the components
 
   Researched answer:
 
@@ -46,7 +46,7 @@ Answer the following questions. First, without external resources. Challenge you
 
   Your answer:
 
-  Researched answer:
+  Researched answer:mechanism where variables and function declarations are moved to the top of their scope before code execution
 
 
 
